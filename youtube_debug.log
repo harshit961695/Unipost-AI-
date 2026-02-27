@@ -1,0 +1,346 @@
+[2026-02-20T10:01:07.136Z] 
+=======================================
+[2026-02-20T10:01:07.143Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:01:07.147Z] =======================================
+[2026-02-20T10:01:07.150Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:01:07.165Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T10:01:10.115Z] 
+=======================================
+[2026-02-20T10:01:10.118Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:01:10.119Z] =======================================
+[2026-02-20T10:01:10.120Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:01:10.122Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T10:01:11.137Z] 
+=======================================
+[2026-02-20T10:01:11.142Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:01:11.148Z] =======================================
+[2026-02-20T10:01:11.151Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:01:11.154Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T10:01:22.570Z] 
+=======================================
+[2026-02-20T10:01:22.579Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:01:22.582Z] =======================================
+[2026-02-20T10:01:22.585Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:01:22.595Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T10:01:23.494Z] 
+=======================================
+[2026-02-20T10:01:23.497Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:01:23.500Z] =======================================
+[2026-02-20T10:01:23.508Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:01:23.515Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T10:01:24.320Z] 
+=======================================
+[2026-02-20T10:01:24.324Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:01:24.327Z] =======================================
+[2026-02-20T10:01:24.331Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:01:24.339Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T10:01:25.080Z] 
+=======================================
+[2026-02-20T10:01:25.084Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:01:25.086Z] =======================================
+[2026-02-20T10:01:25.091Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:01:25.100Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T10:08:10.394Z] 
+=======================================
+[2026-02-20T10:08:10.396Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:08:10.402Z] =======================================
+[2026-02-20T10:08:10.404Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:08:10.413Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T10:08:15.613Z] 
+=======================================
+[2026-02-20T10:08:15.625Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:08:15.637Z] =======================================
+[2026-02-20T10:08:15.651Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:08:15.669Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T10:08:22.943Z] 
+=======================================
+[2026-02-20T10:08:22.946Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:08:22.954Z] =======================================
+[2026-02-20T10:08:22.958Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:08:22.971Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T10:08:24.588Z] 
+=======================================
+[2026-02-20T10:08:24.592Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:08:24.594Z] =======================================
+[2026-02-20T10:08:24.600Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:08:24.604Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T10:15:56.678Z] 
+=======================================
+[2026-02-20T10:15:56.681Z] [TEST ROUTE] ENTERING /api/test-upload
+[2026-02-20T10:15:56.682Z] =======================================
+[2026-02-20T10:15:56.683Z] [TEST ROUTE] Checking Supabase user session...
+[2026-02-20T10:15:56.685Z] [TEST ROUTE] Auth check returned an error: {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[2026-02-20T10:15:56.687Z] [TEST ROUTE] Unauthorized access attempt: No active session found.
+[2026-02-20T10:18:22.414Z] 
+=======================================
+[2026-02-20T10:18:22.426Z] [TEST ROUTE] ENTERING /api/test-upload
+[2026-02-20T10:18:22.428Z] =======================================
+[2026-02-20T10:18:22.431Z] [TEST ROUTE] Checking Supabase user session...
+[2026-02-20T10:18:22.434Z] [TEST ROUTE] Auth check returned an error: {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[2026-02-20T10:18:22.436Z] [TEST ROUTE] Unauthorized access attempt: No active session found.
+[2026-02-20T10:30:31.035Z] 
+=======================================
+[2026-02-20T10:30:31.045Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:30:31.065Z] =======================================
+[2026-02-20T10:30:31.078Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:30:31.151Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T10:31:37.316Z] 
+=======================================
+[2026-02-20T10:31:37.338Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T10:31:37.339Z] =======================================
+[2026-02-20T10:31:37.340Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T10:31:37.351Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-20T19:16:42.735Z] 
+=======================================
+[2026-02-20T19:16:42.741Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-20T19:16:42.745Z] =======================================
+[2026-02-20T19:16:42.759Z] [BACKEND] Checking Supabase user session...
+[2026-02-20T19:16:42.860Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-21T06:31:25.836Z] 
+=======================================
+[2026-02-21T06:31:25.844Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-21T06:31:25.845Z] =======================================
+[2026-02-21T06:31:25.846Z] [BACKEND] Checking Supabase user session...
+[2026-02-21T06:31:25.866Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-21T06:32:35.705Z] 
+=======================================
+[2026-02-21T06:32:35.709Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-21T06:32:35.710Z] =======================================
+[2026-02-21T06:32:35.711Z] [BACKEND] Checking Supabase user session...
+[2026-02-21T06:32:35.727Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-21T06:35:05.703Z] 
+=======================================
+[2026-02-21T06:35:05.705Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-21T06:35:05.706Z] =======================================
+[2026-02-21T06:35:05.707Z] [BACKEND] Checking Supabase user session...
+[2026-02-21T06:35:05.709Z] [BACKEND] Unauthorized access attempt: No active session found.
+[2026-02-21T06:39:07.875Z] 
+=======================================
+[2026-02-21T06:39:07.877Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-21T06:39:07.877Z] =======================================
+[2026-02-21T06:39:07.878Z] [BACKEND] Checking Supabase user session...
+[2026-02-21T06:39:08.607Z] [BACKEND] Valid session found for User ID: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T06:39:08.868Z] [YOUTUBE PUBLISH] Received formData with keys: video, title, description, privacy, postType
+[2026-02-21T06:39:08.870Z] [YOUTUBE PUBLISH] Parsed metadata - Title: "💫 Logo Launch... #content #socialmedia #update", Privacy: public, Video Size: 8852161 bytes
+[2026-02-21T06:39:08.887Z] [YOUTUBE PUBLISH] Dispatching to youtubeService. uploadVideo starting...
+[2026-02-21T06:39:09.555Z] 
+[BACKEND] FATAL ERROR IN ROUTE:
+[2026-02-21T06:39:09.556Z] Error: YouTube connection not found or invalid
+    at Object.getOAuth2Client (webpack-internal:///(rsc)/./lib/services/youtube.ts:16:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async Object.uploadVideo (webpack-internal:///(rsc)/./lib/services/youtube.ts:45:22)
+    at async POST (webpack-internal:///(rsc)/./app/api/publish/youtube/route.ts:68:27)
+    at async C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:818:17)
+    at async C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:179:21)
+    at async handleRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:359:24)
+    at async requestHandlerImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:383:13)
+    at async Server.requestListener (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\start-server.js:141:13)
+[2026-02-21T06:39:09.559Z] =======================================
+
+[2026-02-21T06:43:46.813Z] 
+=======================================
+[2026-02-21T06:43:46.823Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-21T06:43:46.823Z] =======================================
+[2026-02-21T06:43:46.824Z] [BACKEND] Checking Supabase user session...
+[2026-02-21T06:43:47.836Z] [BACKEND] Valid session found for User ID: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T06:43:47.993Z] [YOUTUBE PUBLISH] Received formData with keys: video, title, description, privacy, postType
+[2026-02-21T06:43:47.993Z] [YOUTUBE PUBLISH] Parsed metadata - Title: "💫 Logo Launch... #content #socialmedia #update", Privacy: public, Video Size: 8852161 bytes
+[2026-02-21T06:43:47.998Z] [YOUTUBE PUBLISH] Dispatching to youtubeService. uploadVideo starting...
+[2026-02-21T06:43:48.692Z] 
+[BACKEND] FATAL ERROR IN ROUTE:
+[2026-02-21T06:43:48.697Z] Error: YouTube connection not found or invalid
+    at Object.getOAuth2Client (webpack-internal:///(rsc)/./lib/services/youtube.ts:16:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async Object.uploadVideo (webpack-internal:///(rsc)/./lib/services/youtube.ts:45:22)
+    at async POST (webpack-internal:///(rsc)/./app/api/publish/youtube/route.ts:68:27)
+    at async C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:818:17)
+    at async C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:179:21)
+    at async handleRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:359:24)
+    at async requestHandlerImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:383:13)
+    at async Server.requestListener (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\start-server.js:141:13)
+[2026-02-21T06:43:48.698Z] =======================================
+
+[2026-02-21T06:46:18.975Z] 
+=======================================
+[2026-02-21T06:46:19.003Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-21T06:46:19.004Z] =======================================
+[2026-02-21T06:46:19.005Z] [BACKEND] Checking Supabase user session...
+[2026-02-21T06:46:19.907Z] [BACKEND] Valid session found for User ID: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T06:46:21.861Z] [YOUTUBE PUBLISH] Received formData with keys: video, title, description, privacy, postType
+[2026-02-21T06:46:21.862Z] [YOUTUBE PUBLISH] Parsed metadata - Title: "🎯 Logo Launch... #content #socialmedia #update", Privacy: public, Video Size: 8852161 bytes
+[2026-02-21T06:46:21.873Z] [YOUTUBE PUBLISH] Dispatching to youtubeService. uploadVideo starting...
+[2026-02-21T06:46:22.094Z] 
+[BACKEND] FATAL ERROR IN ROUTE:
+[2026-02-21T06:46:22.098Z] Error: YouTube connection not found or invalid
+    at Object.getOAuth2Client (webpack-internal:///(rsc)/./lib/services/youtube.ts:16:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async Object.uploadVideo (webpack-internal:///(rsc)/./lib/services/youtube.ts:45:22)
+    at async POST (webpack-internal:///(rsc)/./app/api/publish/youtube/route.ts:68:27)
+    at async C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:818:17)
+    at async C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:179:21)
+    at async handleRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:359:24)
+    at async requestHandlerImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:383:13)
+    at async Server.requestListener (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\start-server.js:141:13)
+[2026-02-21T06:46:22.099Z] =======================================
+
+[2026-02-21T06:53:15.304Z] 
+=======================================
+[2026-02-21T06:53:15.315Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-21T06:53:15.316Z] =======================================
+[2026-02-21T06:53:15.317Z] [BACKEND] Checking Supabase user session...
+[2026-02-21T06:53:16.266Z] [BACKEND] Valid session found for User ID: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T06:53:18.593Z] [YOUTUBE PUBLISH] Received formData with keys: video, title, description, privacy, postType
+[2026-02-21T06:53:18.594Z] [YOUTUBE PUBLISH] Parsed metadata - Title: "🎯 Logo Launch... #content #socialmedia #update", Privacy: public, Video Size: 8852161 bytes
+[2026-02-21T06:53:18.601Z] [YOUTUBE PUBLISH] Dispatching to youtubeService. uploadVideo starting...
+[2026-02-21T06:53:19.041Z] 
+[BACKEND] FATAL ERROR IN ROUTE:
+[2026-02-21T06:53:19.055Z] Error: YouTube connection not found or invalid
+    at Object.getOAuth2Client (webpack-internal:///(rsc)/./lib/services/youtube.ts:16:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async Object.uploadVideo (webpack-internal:///(rsc)/./lib/services/youtube.ts:45:22)
+    at async POST (webpack-internal:///(rsc)/./app/api/publish/youtube/route.ts:68:27)
+    at async C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:818:17)
+    at async C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:179:21)
+    at async handleRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:359:24)
+    at async requestHandlerImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:383:13)
+    at async Server.requestListener (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\start-server.js:141:13)
+[2026-02-21T06:53:19.060Z] =======================================
+
+[2026-02-21T06:53:32.194Z] 
+=======================================
+[2026-02-21T06:53:32.196Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-21T06:53:32.197Z] =======================================
+[2026-02-21T06:53:32.197Z] [BACKEND] Checking Supabase user session...
+[2026-02-21T06:53:32.706Z] [BACKEND] Valid session found for User ID: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T06:53:32.767Z] [YOUTUBE PUBLISH] Received formData with keys: video, title, description, privacy, postType
+[2026-02-21T06:53:32.768Z] [YOUTUBE PUBLISH] Parsed metadata - Title: "🎯 Logo Launch... #content #socialmedia #update", Privacy: public, Video Size: 8852161 bytes
+[2026-02-21T06:53:32.772Z] [YOUTUBE PUBLISH] Dispatching to youtubeService. uploadVideo starting...
+[2026-02-21T06:53:33.133Z] 
+[BACKEND] FATAL ERROR IN ROUTE:
+[2026-02-21T06:53:33.136Z] Error: YouTube connection not found or invalid
+    at Object.getOAuth2Client (webpack-internal:///(rsc)/./lib/services/youtube.ts:16:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async Object.uploadVideo (webpack-internal:///(rsc)/./lib/services/youtube.ts:45:22)
+    at async POST (webpack-internal:///(rsc)/./app/api/publish/youtube/route.ts:68:27)
+    at async C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\base-server.js:818:17)
+    at async C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:179:21)
+    at async handleRequest (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:359:24)
+    at async requestHandlerImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\router-server.js:383:13)
+    at async Server.requestListener (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\server\lib\start-server.js:141:13)
+[2026-02-21T06:53:33.137Z] =======================================
+
+[2026-02-21T07:11:28.522Z] 
+=======================================
+[2026-02-21T07:11:28.524Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-21T07:11:28.525Z] =======================================
+[2026-02-21T07:11:28.525Z] [BACKEND] Checking Supabase user session...
+[2026-02-21T07:11:29.076Z] [BACKEND] Valid session found for User ID: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T07:11:29.566Z] [YOUTUBE PUBLISH] Received formData with keys: video, title, description, privacy, postType
+[2026-02-21T07:11:29.567Z] [YOUTUBE PUBLISH] Parsed metadata - Title: "🎯 Logo Launch... #content #socialmedia #update", Privacy: public, Video Size: 8852161 bytes
+[2026-02-21T07:11:29.582Z] [YOUTUBE PUBLISH] Dispatching to youtubeService. uploadVideo starting...
+[2026-02-21T07:11:33.185Z] [YOUTUBE PUBLISH] Upload complete. Video Data: {"kind":"youtube#video","etag":"EfNHvOalK78OAOCw_xc8VzASYds","id":"_Pg7ROckjU0","snippet":{"publishedAt":"2026-02-21T07:11:30Z","channelId":"UC-LuVB4y050XCwyxLok319A","title":"🎯 Logo Launch... #content #socialmedia #update","description":"🌟 Logo Launch Description... #content #socialmedia #update","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/_Pg7ROckjU0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/_Pg7ROckjU0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/_Pg7ROckjU0/hqdefault.jpg","width":480,"height":360}},"channelTitle":"MR.INFOtech","categoryId":"22","liveBroadcastContent":"none","localized":{"title":"🎯 Logo Launch... #content #socialmedia #update","description":"🌟 Logo Launch Description... #content #socialmedia #update"}},"status":{"uploadStatus":"uploaded","privacyStatus":"public","license":"youtube","embeddable":true,"publicStatsViewable":true,"selfDeclaredMadeForKids":false}}
+[2026-02-21T07:18:21.806Z] 
+=======================================
+[2026-02-21T07:18:21.807Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-21T07:18:21.808Z] =======================================
+[2026-02-21T07:18:21.808Z] [BACKEND] Checking Supabase user session...
+[2026-02-21T07:18:22.002Z] [BACKEND] Valid session found for User ID: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T07:18:22.051Z] [YOUTUBE PUBLISH] Received formData with keys: video, title, description, privacy, postType
+[2026-02-21T07:18:22.051Z] [YOUTUBE PUBLISH] Parsed metadata - Title: "🚀 Testing... #content #socialmedia #update", Privacy: public, Video Size: 8852161 bytes
+[2026-02-21T07:18:22.057Z] [YOUTUBE PUBLISH] Dispatching to youtubeService. uploadVideo starting...
+[2026-02-21T07:18:25.077Z] [YOUTUBE PUBLISH] Upload complete. Video Data: {"kind":"youtube#video","etag":"-yaF2vMoUKdOedSmssFO06lT5U4","id":"xdmPxqoZXbM","snippet":{"publishedAt":"2026-02-21T07:18:23Z","channelId":"UC-LuVB4y050XCwyxLok319A","title":"🚀 Testing... #content #socialmedia #update","description":"🌟 Hello Tango and Charlie... #content #socialmedia #update","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/xdmPxqoZXbM/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/xdmPxqoZXbM/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/xdmPxqoZXbM/hqdefault.jpg","width":480,"height":360}},"channelTitle":"MR.INFOtech","categoryId":"22","liveBroadcastContent":"none","localized":{"title":"🚀 Testing... #content #socialmedia #update","description":"🌟 Hello Tango and Charlie... #content #socialmedia #update"}},"status":{"uploadStatus":"uploaded","privacyStatus":"public","license":"youtube","embeddable":true,"publicStatsViewable":true,"selfDeclaredMadeForKids":false}}
+[2026-02-22T10:00:18.933Z] 
+=======================================
+[2026-02-22T10:00:18.936Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-22T10:00:18.939Z] =======================================
+[2026-02-22T10:00:18.942Z] [BACKEND] Checking Supabase user session...
+[2026-02-22T10:00:22.368Z] [BACKEND] Valid session found for User ID: 1333698f-c998-4db5-b317-4b1adc42de31
+[2026-02-22T10:00:22.510Z] [YOUTUBE PUBLISH] Received formData with keys: video, title, description, privacy, postType
+[2026-02-22T10:00:22.516Z] [YOUTUBE PUBLISH] Parsed metadata - Title: "🌟 tittle... #content #socialmedia #update", Privacy: public, Video Size: 3537260 bytes
+[2026-02-22T10:00:22.536Z] [YOUTUBE PUBLISH] Dispatching to youtubeService. uploadVideo starting...
+[2026-02-22T10:00:28.311Z] [YOUTUBE PUBLISH] Upload complete. Video Data: {"kind":"youtube#video","etag":"7MBlCIj6LJP--6w_EUO3CV_JyHI","id":"Vr2dheLvTOU","snippet":{"publishedAt":"2026-02-22T10:00:24Z","channelId":"UC8b-Uvu0eOLIkKcLfbgLYRw","title":"🌟 tittle... #content #socialmedia #update","description":"🚀 description... #content #socialmedia #update","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/Vr2dheLvTOU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/Vr2dheLvTOU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/Vr2dheLvTOU/hqdefault.jpg","width":480,"height":360}},"channelTitle":"Harshit K. Soni","categoryId":"22","liveBroadcastContent":"none","localized":{"title":"🌟 tittle... #content #socialmedia #update","description":"🚀 description... #content #socialmedia #update"}},"status":{"uploadStatus":"uploaded","privacyStatus":"public","license":"youtube","embeddable":true,"publicStatsViewable":true,"selfDeclaredMadeForKids":false}}
+[2026-02-26T14:31:47.108Z] 
+=======================================
+[2026-02-26T14:31:47.115Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-26T14:31:47.116Z] =======================================
+[2026-02-26T14:31:47.117Z] [BACKEND] Checking Supabase user session...
+[2026-02-26T14:31:48.989Z] [BACKEND] Valid session found for User ID: 1333698f-c998-4db5-b317-4b1adc42de31
+[2026-02-26T14:31:49.011Z] [YOUTUBE PUBLISH] Received formData with keys: video, title, description, privacy, postType
+[2026-02-26T14:31:49.011Z] [YOUTUBE PUBLISH] Parsed metadata - Title: "kn", Privacy: public, Video Size: 3537260 bytes
+[2026-02-26T14:31:49.019Z] [YOUTUBE PUBLISH] Dispatching to youtubeService. uploadVideo starting...
+[2026-02-26T14:31:52.328Z] [YOUTUBE PUBLISH] Upload complete. Video Data: {"kind":"youtube#video","etag":"etEn8C-wuHKn-BtoyXAsUnL6YZ8","id":"hGH45wq9Z9Q","snippet":{"publishedAt":"2026-02-26T14:31:48Z","channelId":"UC8b-Uvu0eOLIkKcLfbgLYRw","title":"kn","description":"","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/hGH45wq9Z9Q/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/hGH45wq9Z9Q/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/hGH45wq9Z9Q/hqdefault.jpg","width":480,"height":360}},"channelTitle":"Harshit K. Soni","categoryId":"22","liveBroadcastContent":"none","localized":{"title":"kn","description":""}},"status":{"uploadStatus":"uploaded","privacyStatus":"public","license":"youtube","embeddable":true,"publicStatsViewable":true,"selfDeclaredMadeForKids":false}}
+[2026-02-26T19:34:01.324Z] 
+=======================================
+[2026-02-26T19:34:01.328Z] [BACKEND] ENTERING /api/publish/youtube
+[2026-02-26T19:34:01.329Z] =======================================
+[2026-02-26T19:34:01.331Z] [BACKEND] Checking Supabase user session...
+[2026-02-26T19:34:01.606Z] [BACKEND] Valid session found for User ID: 1333698f-c998-4db5-b317-4b1adc42de31
+[2026-02-26T19:34:01.661Z] [YOUTUBE PUBLISH] Received formData with keys: video, thumbnail, title, description, privacy, postType
+[2026-02-26T19:34:01.663Z] [YOUTUBE PUBLISH] Parsed metadata - Title: "🚀 bgf... #content #socialmedia #update", Privacy: public, Video Size: 3537260 bytes
+[2026-02-26T19:34:01.668Z] [YOUTUBE PUBLISH] Dispatching to youtubeService. uploadVideo starting...
+[2026-02-26T19:34:05.826Z] [YOUTUBE PUBLISH] Upload complete. Video Data: {"kind":"youtube#video","etag":"zJiD8oE20CCd0VtNiL4XSSmGw00","id":"7zLVhyDwEdM","snippet":{"publishedAt":"2026-02-26T19:34:02Z","channelId":"UC8b-Uvu0eOLIkKcLfbgLYRw","title":"🚀 bgf... #content #socialmedia #update","description":"✨ hgfbv... #content #socialmedia #update","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/7zLVhyDwEdM/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/7zLVhyDwEdM/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/7zLVhyDwEdM/hqdefault.jpg","width":480,"height":360}},"channelTitle":"Harshit K. Soni","categoryId":"22","liveBroadcastContent":"none","localized":{"title":"🚀 bgf... #content #socialmedia #update","description":"✨ hgfbv... #content #socialmedia #update"}},"status":{"uploadStatus":"uploaded","privacyStatus":"public","license":"youtube","embeddable":true,"publicStatsViewable":true,"selfDeclaredMadeForKids":false}}

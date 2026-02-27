@@ -1,0 +1,320 @@
+[2026-02-20T18:30:32.157Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-20T18:30:32.335Z] User authenticated: 1333698f-c998-4db5-b317-4b1adc42de31
+[2026-02-20T18:30:32.339Z] Code received. Exchanging for token...
+[2026-02-20T18:30:32.759Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-20T18:30:33.025Z] Long-lived token fetch response: {"access_token":"EAAZB0joxrtVgBQ3xs3hySVb6HG0szbqS0hXOubpofCY26loXgg0VhKd7DHMj6IePZClnJLiage71R9fEMI...
+[2026-02-20T18:30:33.027Z] Fetching Facebook pages for user...
+[2026-02-20T18:30:33.342Z] Pages fetch response: {"data":[]}
+[2026-02-20T18:30:33.343Z] No Instagram Business Account linked to this Facebook page.
+[2026-02-20T18:30:33.345Z] All connections saved successfully. Redirecting to settings.
+[2026-02-20T18:32:21.419Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-20T18:32:21.587Z] User authenticated: 1333698f-c998-4db5-b317-4b1adc42de31
+[2026-02-20T18:32:21.589Z] Code received. Exchanging for token...
+[2026-02-20T18:32:22.045Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-20T18:32:22.321Z] Long-lived token fetch response: {"access_token":"EAAZB0joxrtVgBQ036w1HExTQKYy44WqqJ3Co0rLEHuBXfXjhEHVjoWj6ADKmj4ZB8GgLZCzKJLzMbMujum...
+[2026-02-20T18:32:22.323Z] Fetching Facebook pages for user...
+[2026-02-20T18:32:22.662Z] Pages fetch response: {"data":[]}
+[2026-02-20T18:32:22.663Z] No Instagram Business Account linked to this Facebook page.
+[2026-02-20T18:32:22.665Z] All connections saved successfully. Redirecting to settings.
+[2026-02-21T07:36:45.548Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T07:36:45.625Z] Meta callback error: Dynamic server usage: Route /api/connect/meta/callback couldn't be rendered statically because it used `cookies`. See more info here: https://nextjs.org/docs/messages/dynamic-server-error
+Stack: Error: Dynamic server usage: Route /api/connect/meta/callback couldn't be rendered statically because it used `cookies`. See more info here: https://nextjs.org/docs/messages/dynamic-server-error
+    at n (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\.next\server\app\api\analytics\route.js:1:5343)
+    at async g (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\.next\server\app\api\connect\meta\callback\route.js:2:65)
+    at async C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.prod.js:6:38411
+    at async e_.execute (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.prod.js:6:27880)
+    at async e_.handle (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\compiled\next-server\app-route.runtime.prod.js:6:39943)
+    at async exportAppRoute (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\export\routes\app-route.js:77:26)
+    at async exportPageImpl (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\export\worker.js:175:20)
+    at async Span.traceAsyncFn (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\trace\trace.js:154:20)
+    at async Object.exportPage (C:\Users\dell\Desktop\harshit_work\v2\Unipost-AI\node_modules\next\dist\export\worker.js:237:20)
+[2026-02-21T08:41:28.615Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T08:41:28.992Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T08:41:28.994Z] Code received. Exchanging for token...
+[2026-02-21T08:41:29.801Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T08:41:30.089Z] Long-lived token fetch response: {"access_token":"EAAZB0joxrtVgBQzdrLMhCH7ExkyfuYyLGTCZAQg0T2Lj26crVy7aq9kMFeGn9AdKsh7wadnakvZAe2PKBz...
+[2026-02-21T08:41:30.090Z] Fetching all Facebook pages for user...
+[2026-02-21T08:41:30.654Z] Pages fetch response: {"data":[]}
+[2026-02-21T08:41:30.656Z] No Facebook pages found for this user.
+[2026-02-21T08:51:24.407Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T08:51:24.593Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T08:51:24.595Z] Error: No code received from Facebook.
+[2026-02-21T09:45:08.783Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T09:45:10.131Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T09:45:10.134Z] Error: No code received from Facebook.
+[2026-02-21T10:11:25.991Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T10:11:26.529Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T10:11:26.530Z] Error: No code received from Facebook.
+[2026-02-21T10:45:36.095Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T10:45:36.445Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T10:45:36.447Z] Code received. Exchanging for token...
+[2026-02-21T10:45:37.207Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T10:45:37.619Z] Long-lived token fetch response: {"access_token":"EAAZB0joxrtVgBQ5XBIp65hIB3ZA9ADCWlRUhyMFXRfiVlgw5pj2cZBsvZA4OTewPCNkytcYP2OZBre4SuX...
+[2026-02-21T10:45:37.620Z] Fetching all Facebook pages for user...
+[2026-02-21T10:45:38.130Z] Pages fetch response: {"data":[]}
+[2026-02-21T10:45:38.133Z] No Facebook pages found for this user.
+[2026-02-21T16:14:00.895Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T16:14:01.883Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T16:14:01.884Z] Code received. Exchanging for token...
+[2026-02-21T16:14:02.806Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T16:14:03.312Z] Long-lived token fetch response status: 200
+[2026-02-21T16:14:03.314Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T16:14:03.315Z] Fetching all Facebook pages for user via /me/accounts...
+[2026-02-21T16:14:04.293Z] Pages fetch response status: 200
+[2026-02-21T16:14:04.296Z] Pages fetch full response: {"data":[]}
+[2026-02-21T16:14:04.299Z] No Facebook pages found for this user. This usually means the user has no Facebook pages or hasn't granted the pages_show_list permission.
+[2026-02-21T16:14:19.750Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T16:14:20.024Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T16:14:20.027Z] Error: No code received from Facebook.
+[2026-02-21T16:14:49.944Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T16:14:50.215Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T16:14:50.216Z] Code received. Exchanging for token...
+[2026-02-21T16:14:51.034Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T16:14:51.405Z] Long-lived token fetch response status: 200
+[2026-02-21T16:14:51.406Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T16:14:51.408Z] Fetching all Facebook pages for user via /me/accounts...
+[2026-02-21T16:14:51.863Z] Pages fetch response status: 200
+[2026-02-21T16:14:51.867Z] Pages fetch full response: {"data":[]}
+[2026-02-21T16:14:51.869Z] No Facebook pages found for this user. This usually means the user has no Facebook pages or hasn't granted the pages_show_list permission.
+[2026-02-21T16:26:17.254Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T16:26:18.060Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T16:26:18.064Z] Code received. Exchanging for token...
+[2026-02-21T16:26:18.755Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T16:26:19.104Z] Long-lived token fetch response status: 200
+[2026-02-21T16:26:19.106Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T16:26:19.107Z] Fetching all Facebook pages for user via /me/accounts...
+[2026-02-21T16:26:19.572Z] Pages fetch response status: 200
+[2026-02-21T16:26:19.577Z] Pages fetch full response: {"data":[]}
+[2026-02-21T16:26:19.580Z] No Facebook pages found for this user. This usually means the user has no Facebook pages or hasn't granted the pages_show_list permission.
+[2026-02-21T16:28:26.821Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T16:28:27.076Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T16:28:27.078Z] Code received. Exchanging for token...
+[2026-02-21T16:28:27.761Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T16:28:28.116Z] Long-lived token fetch response status: 200
+[2026-02-21T16:28:28.120Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T16:28:28.122Z] Fetching all Facebook pages for user via /me/accounts...
+[2026-02-21T16:28:28.595Z] Pages fetch response status: 200
+[2026-02-21T16:28:28.598Z] Pages fetch full response: {"data":[]}
+[2026-02-21T16:28:28.599Z] No Facebook pages found for this user. This usually means the user has no Facebook pages or hasn't granted the pages_show_list permission.
+[2026-02-21T16:32:42.084Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T16:32:42.416Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T16:32:42.421Z] Code received. Exchanging for token...
+[2026-02-21T16:32:43.167Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T16:32:43.512Z] Long-lived token fetch response status: 200
+[2026-02-21T16:32:43.514Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T16:32:43.515Z] Fetching all Facebook pages for user via /me/accounts...
+[2026-02-21T16:32:44.049Z] Pages fetch response status: 200
+[2026-02-21T16:32:44.050Z] Pages fetch full response: {"data":[]}
+[2026-02-21T16:32:44.051Z] No Facebook pages found for this user. This usually means the user has no Facebook pages or hasn't granted the pages_show_list permission.
+[2026-02-21T16:33:21.166Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T16:33:21.499Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T16:33:21.502Z] Code received. Exchanging for token...
+[2026-02-21T16:33:22.303Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T16:33:23.508Z] Long-lived token fetch response status: 200
+[2026-02-21T16:33:23.512Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T16:33:23.514Z] Fetching all Facebook pages for user via /me/accounts...
+[2026-02-21T16:33:24.021Z] Pages fetch response status: 200
+[2026-02-21T16:33:24.026Z] Pages fetch full response: {"data":[]}
+[2026-02-21T16:33:24.030Z] No Facebook pages found for this user. This usually means the user has no Facebook pages or hasn't granted the pages_show_list permission.
+AGENT TEST LOG
+[2026-02-21T16:54:02.567Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T16:54:05.844Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T16:54:05.845Z] Code received. Exchanging for token...
+[2026-02-21T16:54:07.886Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T16:54:08.391Z] Long-lived token fetch response status: 200
+[2026-02-21T16:54:08.396Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T16:54:11.527Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T16:54:12.496Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T16:54:12.499Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T16:54:13.296Z] Pages fetch response status: 200
+[2026-02-21T16:54:13.300Z] Pages fetch full response: {"data":[]}
+[2026-02-21T16:54:13.307Z] No Facebook pages found for this user. This usually means the user has no Facebook pages or hasn't granted the pages_show_list permission.
+[2026-02-21T16:55:18.439Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T16:55:20.242Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T16:55:20.245Z] Code received. Exchanging for token...
+[2026-02-21T16:55:28.200Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T16:55:29.176Z] Long-lived token fetch response status: 200
+[2026-02-21T16:55:29.180Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T16:55:31.742Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T16:55:32.486Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T16:55:32.488Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T16:55:33.121Z] Pages fetch response status: 200
+[2026-02-21T16:55:33.125Z] Pages fetch full response: {"data":[]}
+[2026-02-21T16:55:33.129Z] No Facebook pages found for this user. This usually means the user has no Facebook pages or hasn't granted the pages_show_list permission.
+[2026-02-21T16:59:58.655Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T16:59:59.218Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T16:59:59.222Z] Code received. Exchanging for token...
+[2026-02-21T17:00:00.057Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T17:00:00.542Z] Long-lived token fetch response status: 200
+[2026-02-21T17:00:00.545Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T17:00:01.260Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T17:00:01.729Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T17:00:01.732Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T17:00:02.210Z] Pages fetch response status: 200
+[2026-02-21T17:00:02.214Z] Pages fetch full response: {"data":[]}
+[2026-02-21T17:00:02.217Z] No Facebook pages found for this user. This usually means the user has no Facebook pages or hasn't granted the pages_show_list permission.
+[2026-02-21T17:04:42.422Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T17:04:42.764Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T17:04:42.766Z] Code received. Exchanging for token...
+[2026-02-21T17:04:43.694Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T17:04:44.223Z] Long-lived token fetch response status: 200
+[2026-02-21T17:04:44.228Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T17:04:44.805Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T17:04:45.366Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T17:04:45.370Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T17:04:46.017Z] Pages fetch response status: 200
+[2026-02-21T17:04:46.031Z] Pages fetch full response: {"data":[{"id":"1053112794545057","name":"Unipost","access_token":"EAAZB0joxrtVgBQ2mA2lZA7pBGZCBAqoWqgMZAp2bQ2cOcNvNY8sZB8ENaIuHue4T75vBcYiFs8NNWxf5GAVSEYxiYWzK5TZBs5p4NrGwGfvgRwZCUjoBWl2kQ1a9SVih7VebzHS35u3YpJi4M1wzBTv467ia5op3m5YMZCuZBhXXc1NNGACsOJY4jBPaRQgx7uWWCadZACQtLr"}],"paging":{"cursors":{"before":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3","after":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3"}}}
+[2026-02-21T17:04:46.033Z] Processing page: Unipost (1053112794545057)
+[2026-02-21T17:04:46.038Z] Saving primary Facebook connection: Unipost
+[2026-02-21T17:04:46.370Z] WARNING: No Instagram Business Account linked to any of the user's Facebook pages.
+[2026-02-21T17:04:46.372Z] All connections saved successfully. Redirecting to settings.
+[2026-02-21T17:08:57.724Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T17:08:58.259Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T17:08:58.262Z] Code received. Exchanging for token...
+[2026-02-21T17:09:00.632Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T17:09:01.009Z] Long-lived token fetch response status: 200
+[2026-02-21T17:09:01.015Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T17:09:01.625Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T17:09:02.047Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T17:09:02.050Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T17:09:02.561Z] Pages fetch response status: 200
+[2026-02-21T17:09:02.569Z] Pages fetch full response: {"data":[{"id":"1053112794545057","name":"Unipost","access_token":"EAAZB0joxrtVgBQ1YEXZC3uoCTxyhu8hQiLR1aTJjIDbNOskLQld67GryjnIZCczF5ZAKGIBnm5qH0ihjzxGZBjD9oHr1MofF8YjrLAYGXabvwqmnKTYZAk7V73R4c6sbj1rZAXZAVqGGI808zYPWZA2OghSZCwSl9DGxq8E68nED8h3z7PK4TLh3ZCZBTX3ji9SZA8sHygCZAhJVVv"}],"paging":{"cursors":{"before":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3","after":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3"}}}
+[2026-02-21T17:09:02.572Z] Processing page: Unipost (1053112794545057)
+[2026-02-21T17:09:02.575Z] Saving primary Facebook connection: Unipost
+[2026-02-21T17:09:03.080Z] WARNING: No Instagram Business Account linked to any of the user's Facebook pages.
+[2026-02-21T17:09:03.083Z] All connections saved successfully. Redirecting to settings.
+[2026-02-21T17:09:46.250Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T17:09:46.567Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T17:09:46.569Z] Code received. Exchanging for token...
+[2026-02-21T17:09:47.311Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T17:09:48.317Z] Long-lived token fetch response status: 200
+[2026-02-21T17:09:48.321Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T17:09:49.150Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T17:09:49.991Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T17:09:49.993Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T17:09:50.470Z] Pages fetch response status: 200
+[2026-02-21T17:09:50.487Z] Pages fetch full response: {"data":[{"id":"1053112794545057","name":"Unipost","access_token":"EAAZB0joxrtVgBQxk5mvcR61dnkx8nQ3zDcfG4Sllz8PpZBSabPWKkWfQGkHgZBDfNUDmcWL7ZCZAUBcNsQFPVxuOh4sM0UA2lx2Iq7ssSHgb0ZBY0mCEuF9CMLza6dKluqYdQpoOcxJacPRADTUhS3aZCAAOOzoqOIA6AAQt9pS4ZA1htSlsVmnL7Ceek1A4L5hkxkQXZBATg"}],"paging":{"cursors":{"before":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3","after":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3"}}}
+[2026-02-21T17:09:50.490Z] Processing page: Unipost (1053112794545057)
+[2026-02-21T17:09:50.495Z] Saving primary Facebook connection: Unipost
+[2026-02-21T17:09:50.643Z] WARNING: No Instagram Business Account linked to any of the user's Facebook pages.
+[2026-02-21T17:09:50.646Z] All connections saved successfully. Redirecting to settings.
+[2026-02-21T17:22:18.136Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T17:22:18.635Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T17:22:18.637Z] Code received. Exchanging for token...
+[2026-02-21T17:22:19.349Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T17:22:19.662Z] Long-lived token fetch response status: 200
+[2026-02-21T17:22:19.663Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T17:22:20.093Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T17:22:20.451Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T17:22:20.454Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T17:22:20.887Z] Pages fetch response status: 200
+[2026-02-21T17:22:20.889Z] Pages fetch full response: {"data":[{"id":"1053112794545057","name":"Unipost","access_token":"EAAZB0joxrtVgBQ70aNWaRvJGftgR1ztiJtjhrAaTOP4yE7w87CGdEwpllSaZBCJXH84mK20cqKCqMzCcOr2ma7ZA9XIUCtK25Vl61sC18QfKhXQI5wdu0pLkQUkb869tAp9ugDaO96nb13L0n8NpgO8HunirhCxgjPzveipB8lbFoRfobwPNMdF7tEqbZAeGjjqd6aYV"}],"paging":{"cursors":{"before":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3","after":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3"}}}
+[2026-02-21T17:22:20.890Z] Processing page: Unipost (1053112794545057)
+[2026-02-21T17:22:20.891Z] Saving primary Facebook connection: Unipost
+[2026-02-21T17:22:21.224Z] Error saving Facebook connection for Unipost: Could not find the 'updated_at' column of 'connected_accounts' in the schema cache
+[2026-02-21T17:22:21.225Z] FAILED to connect anything. Errors: Facebook (Unipost): Could not find the 'updated_at' column of 'connected_accounts' in the schema cache
+[2026-02-21T17:22:37.118Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T17:22:37.375Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T17:22:37.376Z] Code received. Exchanging for token...
+[2026-02-21T17:22:38.001Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T17:22:39.174Z] Long-lived token fetch response status: 200
+[2026-02-21T17:22:39.178Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T17:22:39.606Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T17:22:40.138Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T17:22:40.140Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T17:22:40.619Z] Pages fetch response status: 200
+[2026-02-21T17:22:40.625Z] Pages fetch full response: {"data":[{"id":"1053112794545057","name":"Unipost","access_token":"EAAZB0joxrtVgBQy9gAPjHWA9bQrZBW5a6YzpEAwITY6GSK9JuEmaAkpZALZA96Bm4ocVx7T7XzdLYsPXdbjdwpzoMOWuLZBqu26MLNcu1VqVaHqP7LFHGhphTN4mlirbqZBaEZA7Rff7dIKEALNLClpRbzB8niPuzZALIhoyyMI6K3jvaCyqW3KiOUZBRsnBNf5fgXDyGXb0q"}],"paging":{"cursors":{"before":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3","after":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3"}}}
+[2026-02-21T17:22:40.626Z] Processing page: Unipost (1053112794545057)
+[2026-02-21T17:22:40.627Z] Saving primary Facebook connection: Unipost
+[2026-02-21T17:22:40.891Z] Error saving Facebook connection for Unipost: Could not find the 'updated_at' column of 'connected_accounts' in the schema cache
+[2026-02-21T17:22:40.893Z] FAILED to connect anything. Errors: Facebook (Unipost): Could not find the 'updated_at' column of 'connected_accounts' in the schema cache
+[2026-02-21T17:33:24.286Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T17:33:24.512Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T17:33:24.513Z] Code received. Exchanging for token...
+[2026-02-21T17:33:25.299Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T17:33:25.779Z] Long-lived token fetch response status: 200
+[2026-02-21T17:33:25.782Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T17:33:26.205Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T17:33:26.735Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T17:33:26.738Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T17:33:27.175Z] Pages fetch response status: 200
+[2026-02-21T17:33:27.185Z] Pages fetch full response: {"data":[{"id":"1053112794545057","name":"Unipost","access_token":"EAAZB0joxrtVgBQ7FUZCNJhFbRh8lgxaYbrH0oZCg00pMNFiKHe24Wa3bZA7EtQbZAZBdKTIZBTGrYZAbKNsvQbZB5zNZBng2aiNXWEdppwOZC8SUHTS4B89KvLPrb88iRUNZCL690oasDYALyI9qRItGciBPtu8g58HjMmMd9NZA4u8nffkD70DUxnBqtZAMWURypWvYsu9ZCiWfSMz"}],"paging":{"cursors":{"before":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3","after":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3"}}}
+[2026-02-21T17:33:27.189Z] Processing page: Unipost (1053112794545057)
+[2026-02-21T17:33:27.192Z] Saving primary Facebook connection: Unipost
+[2026-02-21T17:33:27.508Z] Error saving Facebook connection for Unipost: invalid input syntax for type bigint: "2026-04-22T17:33:27.194Z"
+[2026-02-21T17:33:27.510Z] FAILED to connect anything. Errors: Facebook (Unipost): invalid input syntax for type bigint: "2026-04-22T17:33:27.194Z"
+[2026-02-21T17:33:38.089Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T17:33:38.300Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T17:33:38.302Z] Code received. Exchanging for token...
+[2026-02-21T17:33:38.892Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T17:33:39.202Z] Long-lived token fetch response status: 200
+[2026-02-21T17:33:39.205Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T17:33:39.639Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T17:33:40.028Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T17:33:40.030Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T17:33:40.606Z] Pages fetch response status: 200
+[2026-02-21T17:33:40.611Z] Pages fetch full response: {"data":[{"id":"1053112794545057","name":"Unipost","access_token":"EAAZB0joxrtVgBQ9m4SMh8MzyDbLZAro9xXCYsa52oa0W6z6GxMxLUeNKEZA7l3enBGnCUa3Lq5HglMWuNDkaC95ub4oIBpDlfvbU1WP12w8hhR49N9CZCkSzGXHIfphUn9lxwkkwSoWENz516ITR6Em505hZBlEiagEwAr2gwSiSSAmOLye1v8cp72teYLK2OzarV0BRk"}],"paging":{"cursors":{"before":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3","after":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3"}}}
+[2026-02-21T17:33:40.613Z] Processing page: Unipost (1053112794545057)
+[2026-02-21T17:33:40.614Z] Saving primary Facebook connection: Unipost
+[2026-02-21T17:33:40.756Z] Error saving Facebook connection for Unipost: invalid input syntax for type bigint: "2026-04-22T17:33:40.615Z"
+[2026-02-21T17:33:40.759Z] FAILED to connect anything. Errors: Facebook (Unipost): invalid input syntax for type bigint: "2026-04-22T17:33:40.615Z"
+[2026-02-21T17:40:28.893Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T17:40:30.275Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T17:40:30.277Z] Code received. Exchanging for token...
+[2026-02-21T17:40:31.076Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T17:40:31.518Z] Long-lived token fetch response status: 200
+[2026-02-21T17:40:31.524Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T17:40:32.080Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T17:40:32.451Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T17:40:32.453Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T17:40:32.878Z] Pages fetch response status: 200
+[2026-02-21T17:40:32.887Z] Pages fetch full response: {"data":[{"id":"1053112794545057","name":"Unipost","access_token":"EAAZB0joxrtVgBQyvqGkJuj5nwG1O3zVKEBhZCoksCBZACzi902u4Bce8P3uOk2fyt81ucJchO7ZB6OaoUR6uDKT3qBKs6cYfdZAZArgJSCjFdRpvFkoai58f09Nd5NHGKmGWj2QxZBxzXzTPYydxLy2Tin3ICLBg3xbztxYO88EgLuwJt6J9Gf97JWC4779tfXD9xt6nwIH"}],"paging":{"cursors":{"before":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3","after":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3"}}}
+[2026-02-21T17:40:32.889Z] Processing page: Unipost (1053112794545057)
+[2026-02-21T17:40:32.891Z] Saving primary Facebook connection: Unipost
+[2026-02-21T17:40:33.157Z] Error saving Facebook connection for Unipost: new row violates row-level security policy for table "connected_accounts"
+[2026-02-21T17:40:33.158Z] FAILED to connect anything. Errors: Facebook (Unipost): new row violates row-level security policy for table "connected_accounts"
+[2026-02-21T17:45:05.389Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T17:45:06.062Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T17:45:06.066Z] Code received. Exchanging for token...
+[2026-02-21T17:45:06.806Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T17:45:07.174Z] Long-lived token fetch response status: 200
+[2026-02-21T17:45:07.175Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T17:45:07.657Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T17:45:08.023Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T17:45:08.025Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T17:45:08.463Z] Pages fetch response status: 200
+[2026-02-21T17:45:08.465Z] Pages fetch full response: {"data":[{"id":"1053112794545057","name":"Unipost","access_token":"EAAZB0joxrtVgBQ9AAKT6IX88ZCySBBapJlCznemv9V9KeYf7s1mDkWQC27ZBmyuJFN6uyUp6yZA6oCBMYF7EkrsDnHinFQUnqriivYfZBL9TyfWkw5UVx1EES1wDoeMIwxw9J54dY9pHL4aaV39cOfNaVICjLAsGJ6P5UF0RVruAF8RCmyUZCUsbpVsOTsgW60eO9jhEzI"}],"paging":{"cursors":{"before":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3","after":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3"}}}
+[2026-02-21T17:45:08.466Z] Processing page: Unipost (1053112794545057)
+[2026-02-21T17:45:08.467Z] Saving primary Facebook connection: Unipost
+[2026-02-21T17:45:08.783Z] WARNING: No Instagram Business Account linked to any of the user's Facebook pages.
+[2026-02-21T17:45:08.787Z] Successfully connected. Facebook: true, Instagram: false
+[2026-02-21T17:47:13.346Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T17:47:13.859Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T17:47:13.861Z] Code received. Exchanging for token...
+[2026-02-21T17:47:14.501Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T17:47:14.986Z] Long-lived token fetch response status: 200
+[2026-02-21T17:47:14.990Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T17:47:15.402Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T17:47:15.777Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T17:47:15.780Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T17:47:16.261Z] Pages fetch response status: 200
+[2026-02-21T17:47:16.269Z] Pages fetch full response: {"data":[{"id":"1053112794545057","name":"Unipost","access_token":"EAAZB0joxrtVgBQ0ZA1kaWlDkrxZBK414gZCAgWHrBgT0conWZAqwLu7K21xuZAZADQPrR4uPqTeZCdLLltnC5jhWy3YZCl4US7ZBWd0kZAw6G2DPZCOMEhVewZAEFmn7J6XcG7ks96VT3NuDXPZBbWH6T2vMT1Y3uQSlDc2LG4SCeRWeXJ5AoZC7FWZC4W5VWzZBtyjHHr6Jk8oayPeR8"}],"paging":{"cursors":{"before":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3","after":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3"}}}
+[2026-02-21T17:47:16.272Z] Processing page: Unipost (1053112794545057)
+[2026-02-21T17:47:16.274Z] Saving primary Facebook connection: Unipost
+[2026-02-21T17:47:16.581Z] Error saving Facebook connection for Unipost: new row violates row-level security policy (USING expression) for table "connected_accounts"
+[2026-02-21T17:47:16.584Z] FAILED to connect anything. Errors: Facebook (Unipost): new row violates row-level security policy (USING expression) for table "connected_accounts"
+[2026-02-21T17:47:33.418Z] --- NEW META CALLBACK REQUEST ---
+[2026-02-21T17:47:33.656Z] User authenticated: 751669d9-98a6-4c49-9136-9046d45b7418
+[2026-02-21T17:47:33.658Z] Code received. Exchanging for token...
+[2026-02-21T17:47:34.167Z] Short-lived token acquired. Fetching long-lived token...
+[2026-02-21T17:47:34.496Z] Long-lived token fetch response status: 200
+[2026-02-21T17:47:34.497Z] Long-lived token acquired (truncated): EAAZB0joxrtVgBQ...
+[2026-02-21T17:47:34.980Z] User identity from token: Unipost AI (122100554847274380)
+[2026-02-21T17:47:36.299Z] Permissions granted in this token: [{"permission":"pages_show_list","status":"granted"},{"permission":"instagram_basic","status":"granted"},{"permission":"pages_read_engagement","status":"granted"},{"permission":"public_profile","status":"granted"}]
+[2026-02-21T17:47:36.303Z] Fetching all Facebook pages for user Unipost AI via /me/accounts...
+[2026-02-21T17:47:36.698Z] Pages fetch response status: 200
+[2026-02-21T17:47:36.707Z] Pages fetch full response: {"data":[{"id":"1053112794545057","name":"Unipost","access_token":"EAAZB0joxrtVgBQyl08IXAx0ZCF7OS908dMs1nemZCHPgsyxLLFzZA2f9fk1xXtTZBWgg4mfWpn6vKkcItBY8utr8g4D1h9AqxOJg9hWoGplmF3CZBKN99uBpfFmP8vP5bN6tLGXprVLoEzdOeUrXXKpvwMHbkwRKrG55IlMcCnSNlhy253gNSL5VrXikZCvD5hUlOAGuH73"}],"paging":{"cursors":{"before":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3","after":"QVFIU1I2aWhkbFk0cUFldWFlNGJrb3U1R2ZApc3V0dkV2X3FzUC1VUzFRMTdYOV9BMWtZASUtqX2hZAZAVphVGdmTE43MzY4REEwQ0JFWklvNF94b0VUMERfTTJ3"}}}
+[2026-02-21T17:47:36.709Z] Processing page: Unipost (1053112794545057)
+[2026-02-21T17:47:36.713Z] Saving primary Facebook connection: Unipost
+[2026-02-21T17:47:37.057Z] Error saving Facebook connection for Unipost: new row violates row-level security policy (USING expression) for table "connected_accounts"
+[2026-02-21T17:47:37.059Z] FAILED to connect anything. Errors: Facebook (Unipost): new row violates row-level security policy (USING expression) for table "connected_accounts"
